@@ -191,3 +191,6 @@ A: For least squares parameter estimation we want to find the line that minimize
 
 Sources:
 Astronomer Amber! https://ml-cheatsheet.readthedocs.io/en/latest/forwardpropagation.html Machine Learning Interview Questions and Answers | Machine Learning Interview Preparation | Edureka https://www.springboard.com/blog/machine-learning-interview-questions/ https://machinelearningmastery.com/k-fold-cross-validation/ https://towardsdatascience.com/l1-and-l2-regularization-methods-ce25e7fc831c https://towardsdatascience.com/support-vector-machine-vs-logistic-regression-94cc2975433f https://towardsdatascience.com/probability-concepts-explained-maximum-likelihood-estimation-c7b4342fdbb1 https://medium.com/mlreview/gradient-boosting-from-scratch-1e317ae4587d
+
+
+http://onlinemlquiz.com/index.php
